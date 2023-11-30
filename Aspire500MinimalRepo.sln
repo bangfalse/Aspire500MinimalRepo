@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aspire500MinimalRepo.AppHos
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aspire500MinimalRepo.ServiceDefaults", "Aspire500MinimalRepo.ServiceDefaults\Aspire500MinimalRepo.ServiceDefaults.csproj", "{9A65550C-129A-42C8-BE00-9F49152A530E}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{62318EA6-3A53-4850-A064-03DF6C4D77DB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -20,6 +22,10 @@ Global
 		{9A65550C-129A-42C8-BE00-9F49152A530E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9A65550C-129A-42C8-BE00-9F49152A530E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9A65550C-129A-42C8-BE00-9F49152A530E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62318EA6-3A53-4850-A064-03DF6C4D77DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62318EA6-3A53-4850-A064-03DF6C4D77DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62318EA6-3A53-4850-A064-03DF6C4D77DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62318EA6-3A53-4850-A064-03DF6C4D77DB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
